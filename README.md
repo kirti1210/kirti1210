@@ -3,23 +3,18 @@
 ##  What I Work On<br><br>
 #### * Machine Learning & Deep Learning<br>* Natural Language Processing (NLP)<br>* Generative AI & Transformer Models<br>* Explainable AI (XAI)<br>* Data Analytics & Visualization<br>* Predictive Modeling & Forecasting<br><br>
 ## Tech Stack<br><br>
-#### * **Languages:** Python, SQL, R<br>
-#### * **ML/DL:** Scikit-learn, TensorFlow, Keras, XGBoost<br>
-#### * **NLP:** BERT, Transformers, mBART, NLLB, Whisper<br>
-#### * **Data Science:** Pandas, NumPy, SciPy<br>
-#### * **Visualization:** Power BI, Tableau, Matplotlib, Seaborn<br>
-#### * **Tools:** Git, GitHub, MySQL, Jupyter, Streamlit, VS Code<br><br>
+#### * **Languages:** Python, SQL, R<br>* **ML/DL:** Scikit-learn, TensorFlow, Keras, XGBoost<br>* **NLP:** BERT, Transformers, mBART, NLLB, Whisper<br>* **Data Science:** Pandas, NumPy, SciPy<br>* **Visualization:** Power BI, Tableau, Matplotlib, Seaborn<br>* **Tools:** Git, GitHub, MySQL, Jupyter, Streamlit, VS Code<br><br>
 ## Featured Projects<br><br>
-#### [1] Multimodal Sarcasm Detection using Text & Speech Analysis<br>
-#### [2] Multilingual News Translation & Sentiment Analysis<br>
-#### [3] ENSO Event Forecasting using Machine Learning & Explainable AI<br>
-#### [4]Predictive Analytics in Healthcare<br><br>
+#### [1] Multimodal Sarcasm Detection using Text & Speech Analysis
+#### [2] Multilingual News Translation & Sentiment Analysis
+#### [3] ENSO Event Forecasting using Machine Learning & Explainable AI
+#### [4]Predictive Analytics in Healthcare<br>
 ## Current Focus<br><br>
-#### * Large Language Models (LLMs)<br>
-#### * Retrieval-Augmented Generation (RAG)<br>
-#### * Generative AI Applications<br>
-#### * MLOps & AI Deployment<br>
-#### * Advanced NLP Research<br><br>
+#### * Large Language Models (LLMs)
+#### * Retrieval-Augmented Generation (RAG)
+#### * Generative AI Applications
+#### * MLOps & AI Deployment
+#### * Advanced NLP Research<br>
 #### Always excited to collaborate on AI, ML, NLP, and Data Science projects!<br>
 
 
