@@ -10,8 +10,10 @@
 #### * **Visualization:** Power BI, Tableau, Matplotlib, Seaborn<br>
 #### * **Tools:** Git, GitHub, MySQL, Jupyter, Streamlit, VS Code<br><br>
 ## Featured Projects<br><br>
-#### [1] Multimodal Sarcasm Detection using Text & Speech Analysis<br><br>
-#### [2]Multilingual News Translation & Sentiment Analysis<br><br>ENSO Event Forecasting using Machine Learning & Explainable AI<br><br> Predictive Analytics in Healthcare<br><br>
+#### [1] Multimodal Sarcasm Detection using Text & Speech Analysis<br>
+#### [2] Multilingual News Translation & Sentiment Analysis<br>
+#### [3] ENSO Event Forecasting using Machine Learning & Explainable AI<br>
+#### [4]Predictive Analytics in Healthcare<br><br>
 ## Current Focus<br><br>
 #### * Large Language Models (LLMs)<br>
 #### * Retrieval-Augmented Generation (RAG)<br>
