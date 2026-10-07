@@ -1,5 +1,5 @@
 # About Me:
-####  Hi there, I'm Kirti Singh<br><br> M.Tech in Artificial Intelligence @ IIIT Bhopal (CGPA: 9.81)<br><br> Passionate about Artificial Intelligence, Machine Learning, Deep Learning, Natural Language Processing, and Data Science.<br><br> Published researcher with experience in building AI-driven solutions using Machine Learning, Transformer Models, Explainable AI, and Multimodal Learning.<br><br>
+####  Hi there, I'm Kirti Singh<br><br> M.Tech in Artificial Intelligence @ IIIT Bhopal (CGPA: 9.50)<br><br> Passionate about Artificial Intelligence, Machine Learning, Deep Learning, Natural Language Processing, and Data Science.<br><br> Published researcher with experience in building AI-driven solutions using Machine Learning, Transformer Models, Explainable AI, and Multimodal Learning.<br><br>
 ##  What I Work On<br><br>
 #### * Machine Learning & Deep Learning<br>* Natural Language Processing (NLP)<br>* Generative AI & Transformer Models<br>* Explainable AI (XAI)<br>* Data Analytics & Visualization<br>* Predictive Modeling & Forecasting<br><br>
 ## Tech Stack<br><br>
